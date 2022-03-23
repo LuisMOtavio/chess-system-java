@@ -14,6 +14,10 @@ public abstract class Piece {
 		return board;
 	}
 
+	
+	
+	
+	
 	public abstract boolean[][] possibleMoves();
 
 	public boolean possibleMovie(Position position) {
