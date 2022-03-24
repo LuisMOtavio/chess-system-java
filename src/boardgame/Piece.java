@@ -16,8 +16,6 @@ public abstract class Piece {
 
 	
 	
-	
-	
 	public abstract boolean[][] possibleMoves();
 
 	public boolean possibleMovie(Position position) {
